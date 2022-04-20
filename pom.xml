@@ -321,7 +321,6 @@
         <groupId>org.infinispan.protostream</groupId>
         <artifactId>protostream</artifactId>
         <version>${version.org.infinispan.protostream}</version>
-        <scope>provided</scope>
       </dependency>
       <dependency>
         <groupId>org.infinispan.protostream</groupId>
